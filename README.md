@@ -1,5 +1,7 @@
 # Kind of short joke poetry forms
 
+(c) Alexander Gavrilov  agv_at_tutby@protonmail.com 
+
 Creative Commons «С указанием авторства — Без производных» 4.0 International (CC BY-ND 4.0)
 * Вы можете:
     * Делиться — копировать и распространять материал на любом носителе и в любом формате.
